@@ -1,5 +1,0 @@
-## Homepage
-
----
-
-A Personal Website
